@@ -1,0 +1,37 @@
+# Copyright (C) 2024 WP Iron
+# This file is distributed under the same license as the Cost Of Goods plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Cost Of Goods 1.5.1\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-03-18T17:04:17+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.10.0\n"
+"X-Domain: cost-of-goods\n"
+
+#. Plugin Name of the plugin
+#: cost-of-goods-for-woocommerce.php
+msgid "Cost Of Goods"
+msgstr ""
+
+#. Plugin URI of the plugin
+#: cost-of-goods-for-woocommerce.php
+msgid "https://wpiron.com"
+msgstr ""
+
+#. Description of the plugin
+#: cost-of-goods-for-woocommerce.php
+msgid "add your cost of goods to your products and track your profit in reports"
+msgstr ""
+
+#. Author of the plugin
+#: cost-of-goods-for-woocommerce.php
+msgid "WP Iron"
+msgstr ""
+
+#. Author URI of the plugin
+#: cost-of-goods-for-woocommerce.php
+msgid "https://wpiron.com/"
+msgstr ""
