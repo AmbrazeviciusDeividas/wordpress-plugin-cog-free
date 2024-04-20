@@ -1,0 +1,14 @@
+{
+  "name": "wpiron-cost-of-goods",
+  "version": "1.0.0",
+  "scripts": {
+    "minify-js": "terser trunk/admin/js/cost-of-goods-for-woocommerce-admin.js -o trunk/admin/js/cost-of-goods-for-woocommerce-admin.min.js -c -m",
+    "minify-css": "cleancss -o trunk/admin/css/cost-of-goods-for-woocommerce-admin.min.css trunk/admin/css/cost-of-goods-for-woocommerce-admin.css",
+    "build": "npm run minify-js && npm run minify-css",
+    "deploy": "bash deploy_to_svn.sh"
+  },
+  "devDependencies": {
+    "terser": "^5.7.2",
+    "clean-css-cli": "^5.3.0"
+  }
+}
